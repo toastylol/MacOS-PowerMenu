@@ -2,6 +2,10 @@
 
 a lightweight, native macos power menu that brings back the quick, customizable global shutdown prompt (similar to windows/linux), bypassing the hardware limitations of touch id macs.
 
+<div align="center">
+<img width="452" height="311" alt="Screenshot 2026-07-21 at 06 26 12" src="https://github.com/user-attachments/assets/30b76749-fbec-43c1-964c-a4f7d8b94fe4" />
+</div>
+
 ## the problem
 on newer macbooks and desktop keyboards featuring touch id, apple disabled the traditional hardware power shortcuts (like `Control + Power` or `Option + Command + Power`) to prevent accidental shutdowns. there is no built-in way to summon a quick graphical prompt to sleep, restart, or shut down using a keyboard shortcut.
 
